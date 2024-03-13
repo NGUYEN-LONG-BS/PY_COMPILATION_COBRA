@@ -1,4 +1,4 @@
-# Bài 6 Từ khoá và khai báo biến trong Python
+# Bài 6: Từ khoá và khai báo biến trong Python
 
 # Khai báo biến nhiều dòng
 a = "I"
