@@ -1,5 +1,5 @@
 # Bài 6 Từ khoá và khai báo biến trong Python
-
+# clone
 # Khai báo biến nhiều dòng
 a = "I"
 b = "love"
