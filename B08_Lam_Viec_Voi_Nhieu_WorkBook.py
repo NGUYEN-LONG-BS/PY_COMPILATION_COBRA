@@ -27,3 +27,5 @@ wb2 = xw.books['book2_14h09.xlsx']
 # Dong cac WB lai
 wb1.close()
 wb2.close()
+
+# /
