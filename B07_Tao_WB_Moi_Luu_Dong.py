@@ -1,4 +1,4 @@
-# Bài 7 Cách tạo Workbook mới, cách lưu và đóng Workbook
+# Bài 7: Cách tạo Workbook mới, cách lưu và đóng Workbook
 
 import xlwings as xw    # Thư viện chuyên dùng để xử lý Excel
 
