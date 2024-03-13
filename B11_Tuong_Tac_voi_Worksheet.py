@@ -2,7 +2,6 @@
 # File Excel B11_Sample.xlsx nằm trong folder chứa file script Python
 
 import xlwings as xw
-
 wb1 = xw.Book('B11_Sample.xlsx')    # Mở File có tên là B11_Sample.xlsx lên
 
 #  1. Phân biệt các sheet với sheet hiện hành
